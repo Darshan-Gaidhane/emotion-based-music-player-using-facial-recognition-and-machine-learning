@@ -8,13 +8,15 @@ application to suggest songs for user based on their mood by capturing facial ex
 Facial expression is a form of nonverbal communication. OpenCV software and Haar Cascade
 Classifier is used to implement facial recognition algorithms. Using TensorFlow backend keras
 model is used to detect emotion.
+
 Requirements
-pip install numpy
-pip install opencv-python
-pip install tensorflow
-pip install keras
-pip install pycopy-webbrowser
-pip install os-sys
+
+1.pip install numpy
+2.pip install opencv-python
+3.pip install tensorflow
+4.pip install keras
+5.pip install pycopy-webbrowser
+6.pip install os-sys
 
 Procedure:-
 1. open main.py
