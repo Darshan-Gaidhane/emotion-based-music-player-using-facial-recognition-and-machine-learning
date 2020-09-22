@@ -27,4 +27,6 @@ How to add songs:-
 output:-
 ![alt tag](https://github.com/Darshan-Gaidhane/emotion-based-music-player-using-facial-recognition-and-machine-learning/blob/master/result%2014-03-2020%2014_03_42.png)
 
- 
+![alt tag](https://github.com/Darshan-Gaidhane/emotion-based-music-player-using-facial-recognition-and-machine-learning/blob/master/dd.py%20-%20final%20project%20-%20Visual%20Studio%20Code%2014-03-2020%2014_04_31%20(2).png)
+
+![alt tag](https://github.com/Darshan-Gaidhane/emotion-based-music-player-using-facial-recognition-and-machine-learning/blob/master/HAPPY_DARSHAN%20-%20Google%20Chrome%2006-03-2020%2012_43_52.png)
